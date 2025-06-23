@@ -15,6 +15,7 @@ This involves but are not limited to:
 - Pivot Tables and Charts
 - Excel functions
 - VLOOKUP amongst many others.
+## Note: The completed project's Excel file, which is located in the Excel folder, contains documentation of processes and decisions made during the project execution.
 
 ### This is one of the many stepping stones on my exciting journey to the moon 🌙 
 ### Let's go! 🚀 🚀 🚀 
