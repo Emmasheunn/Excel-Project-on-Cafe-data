@@ -1,4 +1,4 @@
-# Cafe Sales Data Analysis Using Excel 📑
+# Data Analysis Using Excel 📑
 ### Hello 👋 and Welcome to my Excel Repository 
 This repository hold all data analysis I've completed using Excel.
 This involves but are not limited to:
